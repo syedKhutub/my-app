@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import './App.css';
 import Person from './Person/Person';
+import person from './Person/Person';
 
 class App extends Component   {
 
@@ -14,6 +15,12 @@ class App extends Component   {
         showPersons: false
     }
 
+    deletePersonHandler = (personIndex) => {
+        const persons = this.state.persons;
+        persons.splice(personIndex, 1);     //removes item from STATE persons
+        this.setState({persons: persons})   //updated person STATE
+    }
+ 
     switchNameHandler = (newName) => {
         // console.log('was clicked');
         // this.state.persons[0].name = 'Khutub'; This is wrong
@@ -27,7 +34,7 @@ class App extends Component   {
                 ]
             }
         )
-    }
+    } 
 
     togglePersonsHandler = () => {
          const doesShow = this.state.showPersons;
@@ -36,29 +43,17 @@ class App extends Component   {
     
     render()  {
 
-        let persons = (<Person
-                            name={this.state.persons[3].name}
-                            age={this.state.persons[3].age }>He is civil engineer </Person>);
+        let persons = null;
 
         if(this.state.showPersons) {
             persons = (                    
                 <div >
-                    {this.state.persons.map(person => {
+                    {this.state.persons.map((person , index) => {
                         return <Person 
+                                click={() => this.deletePersonHandler(index) }
                                 name={person.name} 
-                                age={person.age} 
-                                click={this.switchNameHandler.bind(this,'Syed!!')}/>
+                                age={person.age} />
                     })}
-                    {/* <Person
-                            name={this.state.persons[0].name}
-                            age={this.state.persons[0].age}
-                            click={this.switchNameHandler.bind(this,'Syed Khutub!') }/>
-                    <Person
-                            name={this.state.persons[1].name}
-                            age={this.state.persons[1].age} >He is a student of CMRIT </Person>
-                    <Person
-                            name={this.state.persons[2].name}
-                            age={this.state.persons[0].age }>He is sad because of KPIT and wants to put SHUTTER </Person> */}
                 </div>);
         }
         return (
