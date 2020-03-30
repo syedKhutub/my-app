@@ -1,0 +1,728 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"se",
+				"servlet-name"
+			],
+			[
+				"c",
+				"check"
+			],
+			[
+				"thr",
+				"throws"
+			],
+			[
+				"l",
+				"log"
+			],
+			[
+				"s",
+				"script\tTag"
+			],
+			[
+				"oncli",
+				"onclick\tAttr"
+			],
+			[
+				"t",
+				"text"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"h",
+				"header-left"
+			],
+			[
+				"na",
+				"navbar"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"border-r",
+				"border-radius\tproperty"
+			],
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"v",
+				"VEHICLE_REGISTRATION"
+			],
+			[
+				"vE",
+				"VEHICLE_REGISTRATION"
+			],
+			[
+				"V",
+				"VEHICLE_REGISTRATION"
+			],
+			[
+				"veh",
+				"vehicle_details"
+			],
+			[
+				"TR",
+				"transmission_type"
+			],
+			[
+				"C",
+				"COST_PER_KM"
+			],
+			[
+				"VEH",
+				"vehicleDeposit"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"B",
+				"BOOKING_ID"
+			],
+			[
+				"drop",
+				"dropoff_date"
+			],
+			[
+				"PICK",
+				"pickup_date"
+			],
+			[
+				"picku",
+				"pickup_time"
+			],
+			[
+				"Book",
+				"BOOKING_ID"
+			],
+			[
+				"ve",
+				"VEHICLE_REGISTRATION"
+			],
+			[
+				"MYSQLI_rE",
+				"mysqli_real_escape_string"
+			],
+			[
+				"data",
+				"data1"
+			],
+			[
+				"LOCA",
+				"localStorage"
+			],
+			[
+				"type",
+				"typeof"
+			],
+			[
+				"get",
+				"getItem"
+			],
+			[
+				"local",
+				"localStorage"
+			],
+			[
+				"bo",
+				"BookNOW"
+			],
+			[
+				"REG",
+				"REGNO"
+			],
+			[
+				"L",
+				"log"
+			],
+			[
+				"bOOK",
+				"BookNOW"
+			],
+			[
+				"F",
+				"function"
+			],
+			[
+				"USER",
+				"username"
+			],
+			[
+				"ec",
+				"echo\techo \"…\""
+			],
+			[
+				"margin",
+				"margin-bottom\tproperty"
+			],
+			[
+				"r",
+				"required\tAttr"
+			],
+			[
+				"a",
+				"autocomplete\tAttr"
+			],
+			[
+				"b",
+				"booking_date"
+			],
+			[
+				"dr",
+				"dropoff_time"
+			],
+			[
+				"p",
+				"pickup_time"
+			],
+			[
+				"dro",
+				"dropoff_date"
+			],
+			[
+				"pi",
+				"pickup_time"
+			],
+			[
+				"fore",
+				"foreign_key_set1"
+			],
+			[
+				"for",
+				"foreign_key_set"
+			],
+			[
+				"arr",
+				"array1"
+			],
+			[
+				"qu",
+				"query2"
+			],
+			[
+				"IN",
+				"INSERT"
+			],
+			[
+				"co",
+				"conn"
+			],
+			[
+				"VE",
+				"vehicle_registration"
+			],
+			[
+				"cos",
+				"cost_per_km"
+			],
+			[
+				"mysqli_re",
+				"mysqli_real_escape_string"
+			],
+			[
+				"ad",
+				"admin_username"
+			],
+			[
+				"Vehi",
+				"Vehicle"
+			],
+			[
+				"Vehicle_",
+				"vehicle_name"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"lo",
+				"location"
+			],
+			[
+				"RE",
+				"required\tAttr"
+			],
+			[
+				"log",
+				"login-form"
+			],
+			[
+				"EXI",
+				"exists"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"e",
+				"errors"
+			],
+			[
+				"re",
+				"registerms"
+			],
+			[
+				"al",
+				"alert"
+			],
+			[
+				"js",
+				"json_encode"
+			],
+			[
+				"JS",
+				"json_encode"
+			],
+			[
+				"ex",
+				"exists"
+			],
+			[
+				"sc",
+				"script"
+			],
+			[
+				"CU",
+				"CUSTOMER_EMAIL"
+			],
+			[
+				"arra",
+				"array"
+			],
+			[
+				"su",
+				"submitDetailsForm"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"pr",
+				"project"
+			],
+			[
+				"ADDRESS",
+				"address"
+			],
+			[
+				"NAME",
+				"name"
+			],
+			[
+				"CUST",
+				"CUSTOMER_ID"
+			],
+			[
+				"wor",
+				"workin"
+			],
+			[
+				"echo",
+				"echo\techo \"…\""
+			],
+			[
+				"conne",
+				"CONNECTION"
+			],
+			[
+				"n",
+				"no-repeat"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"MAX",
+				"maxlength\tAttr"
+			],
+			[
+				"pa",
+				"password"
+			],
+			[
+				"m",
+				"maxlength\tAttr"
+			],
+			[
+				"contact",
+				"contact-no"
+			],
+			[
+				"fo",
+				"form\tTag"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"font-siz",
+				"font-size-adjust"
+			],
+			[
+				"o",
+				"Open"
+			],
+			[
+				"sa",
+				"Sans"
+			],
+			[
+				"S",
+				"sans-serif"
+			],
+			[
+				"ba",
+				"background-size"
+			],
+			[
+				"hea",
+				"header-tabs"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"D",
+				"DIV\tTag"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"w",
+				"width"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/syed/Desktop/Task/my-app/public/robots.txt",
+		"/C/Users/syed/Desktop/Task/my-app/public/index",
+		"/C/Users/syed/Desktop/Task/index.html",
+		"/C/Users/syed/Desktop/[FreeCourseSite.com] Udemy - React - The Complete Guide (incl Hooks, React Router, Redux)/2. Refreshing Next Generation JavaScript (Optional)/13. JS Array Functions.html",
+		"/C/Users/syed/Desktop/GitProjects/git-demo/aqibkacode.txt",
+		"/C/Users/syed/Desktop/KTS active key.txt",
+		"/C/Users/syed/Desktop/[FreeCourseSite.com] Udemy - Backend web development with Django 2 - Build 8 projects/1. Getting the tools ready for Django 2/4. Exercise files.html",
+		"/C/Users/syed/Desktop/GitProjects/aqib/aqibkacode.txt",
+		"/C/Users/syed/Desktop/GitProjects/git-demo/.git/packed-refs",
+		"/C/Users/syed/Desktop/New Text Document.txt",
+		"/C/Users/syed/Desktop/GitProjects/web_project/.git/description",
+		"/C/Users/syed/Desktop/GitProjects/fresh-project/hipster.txt",
+		"/C/Users/syed/Desktop/React-Redux--Saga/src/actions/actionTypes.js",
+		"/C/Users/syed/Desktop/React-Redux--Saga/src/api/FillIrrigationTankApi.js",
+		"/C/Users/syed/Desktop/React-Redux--Saga/src/api/loadUsersData.js",
+		"/C/Users/syed/Desktop/BucketList.txt",
+		"/C/Program Files/Git/ReleaseNotes.html",
+		"/C/Users/syed/Desktop/React-Redux--Saga/src/sagas/index.js",
+		"/C/Users/syed/Desktop/React-Redux--Saga/src/index.js",
+		"/C/Users/syed/Desktop/React-Redux--Saga/src/components/loader/index.js",
+		"/C/Users/syed/Desktop/React-Redux--Saga/src/store/configureStore.js",
+		"/C/Users/syed/Desktop/React-Redux--Saga/src/sagas/watchers.js",
+		"/C/Users/syed/Desktop/React-Redux--Saga/public/index.html",
+		"/C/Users/syed/Desktop/TheVoltageLaw/index.html",
+		"/C/Users/syed/Desktop/React-Redux--Saga/src/sagas/startIrrigationFunc.js",
+		"/C/Users/syed/Desktop/bucket.txt",
+		"/C/Users/syed/Desktop/aqibb/projectx/li-charger/li-charger.ino",
+		"/C/Users/syed/Desktop/aqibb/projectx/li-charger/doc/li-charger-bom.txt",
+		"/C/Users/syed/Desktop/Deep Learning A-Z™ Hands-On Artificial Neural Networks/TutsGalaxy.com.txt",
+		"/C/Users/syed/Desktop/rajasthan docs/raj.txt",
+		"/C/ti/ccs910/ccs/eclipse/https",
+		"/C/Users/syed/Desktop/india independence images/Tpdm.txt",
+		"/C/Users/syed/Desktop/Matlab 2017a/license_agreement.txt",
+		"/C/Users/syed/Desktop/Matlab 2017a/simulink/help/trademarks.txt",
+		"/C/Users/syed/AppData/Local/Temp/7zO0ED14EE5/license.txt",
+		"/C/Users/syed/Desktop/Matlab 2017a/liion",
+		"/C/xampp/htdocs/dbms project/css/login.css",
+		"/C/xampp/htdocs/dbms project/html/admin.html",
+		"/C/Users/syed/Desktop/React-Redux--Saga/src/App.js",
+		"/C/Users/syed/Desktop/india independence images/Tpdm (1).txt",
+		"/C/Users/syed/Desktop/Inventory Control Mgmt C#/Inventory Control Mgmt System/READ ME FIRST !!!!.txt",
+		"/C/Users/syed/Desktop/Backup/pre_process.py.py",
+		"/C/Users/syed/Downloads/citation-307434911.txt",
+		"/C/Users/syed/Desktop/Deep Learning A-Z™ Hands-On Artificial Neural Networks/Read Me.txt",
+		"/C/Users/syed/Desktop/projectx/li-charger/li-charger.ino",
+		"/C/Users/syed/Desktop/install.txt",
+		"/C/Users/syed/Desktop/projectx/li-charger/helper.cpp",
+		"/C/Users/syed/Downloads/IMG_20190510_105940__01.jpg",
+		"/C/Users/syed/Desktop/Inventory Control Mgmt C#/READ ME FIRST !!!!.txt",
+		"/C/Users/syed/Desktop/Inventory Control Mgmt C#/Inventory Control Mgmt System/_UpgradeReport_Files/UpgradeReport.css",
+		"/C/Users/syed/Desktop/projectx/li-charger/trace.cpp",
+		"/C/Users/syed/Desktop/projectx/li-charger/trace.h",
+		"/C/Users/syed/Desktop/projectx/li-charger/adc.cpp",
+		"/C/Users/syed/Desktop/projectx/li-charger/cli.h",
+		"/C/Users/syed/Desktop/projectx/li-charger/README.md",
+		"/C/Users/syed/Desktop/projext",
+		"/C/xampp/htdocs/dbms project/html/booking.html",
+		"/C/xampp/tomcat/webapps/AddCookieServlet/WEB-INF/web.xml",
+		"/C/xampp/tomcat/webapps/AddCookieServlet/index.html",
+		"/C/xampp/tomcat/webapps/PassParameter/index.html",
+		"/C/xampp/tomcat/webapps/PassParameter/lib/PassParameter.java",
+		"/C/xampp/tomcat/webapps/AddCookieServlet/New folder/AddCookieServlet.java",
+		"/C/xampp/tomcat/webapps/PassParameter/WEB-INF/web.xml",
+		"/C/xampp/tomcat/webapps/SessionsServlet/index.html",
+		"/C/xampp/tomcat/webapps/Greet/index.html",
+		"/C/xampp/tomcat/webapps/Greet/WEB-INF/web.xml",
+		"/C/xampp/tomcat/webapps/New folder/index.html",
+		"/C/xampp/tomcat/webapps/New folder/Greet.java",
+		"/C/xampp/cgi-bin/count.txt",
+		"/C/xampp/htdocs/iplab/8pg.html",
+		"/C/xampp/htdocs/iplab/9pg.html",
+		"/C/xampp/htdocs/iplab/7prgm.php",
+		"/C/xampp/htdocs/iplab/9prgm.php",
+		"/C/xampp/htdocs/iplab/8prgm.php",
+		"/C/xampp/htdocs/iplab/7prgm.html",
+		"/C/xampp/htdocs/8pg.html",
+		"/C/xampp/cgi-bin/5pgm.html",
+		"/C/xampp/cgi-bin/5.pl",
+		"/C/xampp/cgi-bin/6pgm.html",
+		"/C/xampp/cgi-bin/6.pl",
+		"/C/xampp/cgi-bin/2a.html",
+		"/C/xampp/cgi-bin/4.pl",
+		"/C/xampp/cgi-bin/4pgm.html",
+		"/C/xampp/cgi-bin/3.pl",
+		"/C/xampp/cgi-bin/2b.pl",
+		"/C/xampp/cgi-bin/3pgm.html",
+		"/C/xampp/htdocs/prg8.php",
+		"/C/xampp/htdocs/prg8.html",
+		"/C/xampp/htdocs/5pg.html",
+		"/C/xampp/htdocs/7pg.html",
+		"/C/xampp/htdocs/7pg.php",
+		"/C/xampp/htdocs/dbms project/php/configms.php",
+		"/C/xampp/htdocs/dbms project/php/adminms.php",
+		"/C/xampp/cgi-bin/1pg.pl",
+		"/C/xampp/cgi-bin/1pg.html",
+		"/C/xampp/tomcat/webapps/ServerInfo/index.html",
+		"/C/Users/syed/Desktop/ser/web.xml",
+		"/C/Users/syed/Desktop/ser/13.html",
+		"/C/Users/syed/Desktop/ser/AddCookieServlet/PassParameter.java",
+		"/C/Users/syed/Desktop/ser/AddCookieServlet/15.html",
+		"/C/Users/syed/Desktop/ser/AddCookieServlet/AddCookieServlet.java",
+		"/C/Users/syed/Desktop/ser/SessionsServlet.java",
+		"/C/Users/syed/Desktop/ser/AddCookieServlet/12.html",
+		"/C/Users/syed/Desktop/ser/14.html",
+		"/C/Users/syed/Desktop/ser/ServerInfo.java",
+		"/C/Users/syed/Desktop/ser/15.html",
+		"/C/Users/syed/Desktop/ser/PassParameter.java",
+		"/C/Users/syed/Desktop/ser/12.html",
+		"/C/Users/syed/Desktop/ser/AddCookieServlet.java",
+		"/C/xampp/tomcat/webapps/iplab/12.html",
+		"/C/xampp/tomcat/webapps/iplab/11.html",
+		"/C/xampp/tomcat/webapps/iplab/AddCookieServlet.java",
+		"/C/xampp/tomcat/webapps/iplab/10b.html",
+		"/C/xampp/cgi-bin/1A.pl",
+		"/C/xampp/tomcat/webapps/iplab/10a.html",
+		"/E/md5sum.txt",
+		"/G/RSA.txt",
+		"/C/xampp/htdocs/dbms project/html/login.html",
+		"/C/xampp/htdocs/dbms project/html/newlogin.html",
+		"/C/Program Files (x86)/Kaspersky Lab/Kaspersky Secure Connection 2.0/Doc/en-GB/license.txt",
+		"/C/xampp/htdocs/dbms project/php/loginms.php",
+		"/C/xampp/htdocs/dbms project/php/registerms.php",
+		"/C/xampp/htdocs/dbms project/php/vehicledsms.php",
+		"/C/xampp/htdocs/dbms project/signup/web/configms.php",
+		"/C/xampp/htdocs/dbms project/signup/web/insertms.php",
+		"/C/xampp/htdocs/dbms project/signup/web/inside.php",
+		"/C/xampp/htdocs/dbms project/signup/web/registerms.php",
+		"/C/xampp/htdocs/dbms project/signup/web/server.php"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
